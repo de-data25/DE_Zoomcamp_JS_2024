@@ -2,5 +2,7 @@
 ny_taxi_postgres_data/
 data_pgadmin/
 *.csv
+
 files
+
 week_1_basics_n_setup/2_docker_sql/Untitled-1.sh
