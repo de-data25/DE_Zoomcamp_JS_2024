@@ -42,6 +42,9 @@ What is version of the package *wheel* ?
 - 23.0.1
 - 58.1.0
 
+Answer:
+
+- 0.42.0
 
 # Prepare Postgres
 
