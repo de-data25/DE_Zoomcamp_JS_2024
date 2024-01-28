@@ -162,20 +162,6 @@ mkdir -p ./dags ./logs ./plugins
     AIRFLOW_UID=50000
 
 
-Question 2:
-
-docker pull python:3.9
-docker run -it --entrypoint bash python:3.9
-
-pip list
-
-Package    Version
----------- -------
-pip        23.0.1
-setuptools 58.1.0
-wheel      0.42.0
-
-
 Question 3. Count records
 How many taxi trips were totally made on September 18th 2019?
 
@@ -280,7 +266,3 @@ Your dedication is immensely appreciated.
 Next stop: Mage.  🚀
 
 hashtag#dezoomcamp hashtag#dataengineering hashtag#postgres hashtag#docker hashtag#gcp hashtag#terraform hashtag#data hashtag#datatalksclub hashtag#postgresql
-
-https://github.com/de-data25/DE_Zoomcamp_JS_2024.git
-
-https://github.com/DataTalksClub/data-engineering-zoomcamp.git
